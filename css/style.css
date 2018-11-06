@@ -1,0 +1,26 @@
+.basen{
+	 background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Battle_flag_of_the_Confederate_States_of_America.svg/1024px-Battle_flag_of_the_Confederate_States_of_America.svg.png");	 
+}
+.text{
+	font-family: Comic Sans MS;
+	color:green;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+.centra{
+    text-align: center;
+}
+.storlek{
+height: 220px;
+
+}
+.color{
+	background-color: blue;
+}
